@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on AutoHouse project<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning React Js & Node Js<br>🤝 I’m currently looking for an internship
+🔭 I’m currently working on AutoHouse & InfinitMarket projects<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning React.js, Node.js, and ASP.NET.<br>🤝 I’m currently looking for an internship
 
 
 # 💻 Tech Stack:
